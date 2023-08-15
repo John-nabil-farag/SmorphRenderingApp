@@ -1,0 +1,8 @@
+{
+  /*Positive sign up data*/
+  "firstName": "first",
+  "lastName": "last",
+  "emailAddress": "email@Address.com",
+  "password": "123456",
+  "confirmPassword": "123456"
+}

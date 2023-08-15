@@ -1,0 +1,16 @@
+{
+  /*Email Address cases*/
+  "EmailAddress": "gordon@speechmorphing.com",
+  "EmailAddressCaps": "GORDON@SPEECHMORPHING.COM",
+  "invalidEmail": "gorson@speechmorphing.com",
+
+  /*Password cases*/
+  "Password": "jasmine",
+  "PasswordCaps": "JASMINE",
+  "invalidPassword": "jasmini",
+
+  /*Valid  and non activated email*/
+  "nonActivatedEmail": "valid@nonActive.com",
+  "nonActivatedPassword": "123456"
+
+}

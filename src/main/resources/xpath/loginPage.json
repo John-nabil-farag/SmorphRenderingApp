@@ -1,0 +1,19 @@
+{
+  "smorphLogo": "//img[@src=\"images/speech_morphing_logo.png\"]",
+  "appVersion": "//span[text()=\"2.0\"]",
+  "pageTitle": "//*[text()='SIGN IN']",
+
+  /*Email Address elemets*/
+  "emailAddress": "//*[@id=\"user_name\"]",
+  "usernameErrorMessage": "//*[@class=\"name\"]//*[@class=\"help-block form-error\"]",
+
+  /*Password elements*/
+  "password": "//*[@id=\"password\"]",
+  "passwordErrorMessage": "//*[@class=\"passw\"]//*[@class=\"help-block form-error\"]",
+
+  /*Clickable elements*/
+  "loginButton": "//*[@id=\"SubmitButtonLogin\"]",
+  "notSignedUpYet": "//*[@href=\"signup.html\"]",
+  "forgotPassword": "//*[@href=\"forgot.html\"]"
+
+}
